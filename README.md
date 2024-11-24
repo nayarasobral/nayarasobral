@@ -1,5 +1,4 @@
 ## Olá 👋
-## Eu sou a Nayara Sobral, apaixonada por tecnologia e em transição de carreira para o mundo da programação e ciência de dados!
 
 - 🌍 Sou de **Goiânia - GO**
 - 📚 Estudando [**MBA em Data Science e Analytics pela USP**](https://mbauspesalq.com/sobre)
