@@ -2,11 +2,11 @@
 ## Eu sou a Nayara Sobral, apaixonada por tecnologia e em transição de carreira para o mundo da programação e ciência de dados!
 
 - 🌍 Sou de **Goiânia - GO**
-- 📚 Atualmente, estou estudando **Data Science e Analytics pela USP**
+- 📚 Estudando [**MBA em Data Science e Analytics pela USP**](https://mbauspesalq.com/sobre)
 - 📈 Me preparando para a certificação **AWS Practitioner**
-- 🎓 Também estou fazendo curso de **Inglês na Wizard**
-- 💻 Minhas principais linguagens de estudo são **SQL** e **Python**
-- 🚀 Estou à procura de **estágio**, pois decidi focar na minha carreira na área de **Tecnologia e Ciência de Dados**
+- 🎓 **Inglês intermediario**
+- 💻 Principais linguagens de programação são **SQL** e **Python**
+- 🚀 Estou à procura de **vagas junior** na área de dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
