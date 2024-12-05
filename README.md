@@ -5,7 +5,7 @@
 - 📈 Me preparando para a certificação **AWS Practitioner**
 - 🎓 **Inglês intermediario**
 - 💻 Principais linguagens de programação são **SQL** e **Python**
-- 🚀 Estou à procura de **vagas junior** na área de dados.
+- 🚀 Estou à procura de **crescimento** na área de dados.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
